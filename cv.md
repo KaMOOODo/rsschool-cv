@@ -1,8 +1,8 @@
 ## Aliaksandr 
 
 ## Contact Information
-**Email:** test@gmail.com
-**Discord:** kamooodo
+- Email: test@gmail.com
+- Discord: kamooodo
 
 ## Skills
 - Markdown
