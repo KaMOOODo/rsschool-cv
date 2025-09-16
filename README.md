@@ -1,1 +1,1 @@
-# rsschool-cv
+https://KaMOOODo.github.io/rsschool-cv/cv
